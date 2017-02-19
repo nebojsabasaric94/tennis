@@ -1,0 +1,1 @@
+Potrebni DLL-ovi na:  https://drive.google.com/open?id=0B1ME1zzMH7LobmVCV3UxLUQ0WjQ
