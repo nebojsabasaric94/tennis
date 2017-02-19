@@ -59,45 +59,7 @@
      <Compile Include="Assets\SkinDetection.cs" />
      <None Include="Assets\Dataset\hand_cascade.xml" />
      <None Include="Assets\Dataset\hand_cascade2.xml" />
- <Reference Include="Emgu.CV.DebuggerVisualizers.VS2008">
- <HintPath>D:/git_SOFT/ForPush/tennis/emgu2/Assets/Plugins/Emgu.CV.DebuggerVisualizers.VS2008.dll</HintPath>
- </Reference>
- <Reference Include="Emgu.CV.DebuggerVisualizers.VS2010">
- <HintPath>D:/git_SOFT/ForPush/tennis/emgu2/Assets/Plugins/Emgu.CV.DebuggerVisualizers.VS2010.dll</HintPath>
- </Reference>
- <Reference Include="Emgu.CV.DebuggerVisualizers.VS2012">
- <HintPath>D:/git_SOFT/ForPush/tennis/emgu2/Assets/Plugins/Emgu.CV.DebuggerVisualizers.VS2012.dll</HintPath>
- </Reference>
- <Reference Include="Emgu.CV">
- <HintPath>D:/git_SOFT/ForPush/tennis/emgu2/Assets/Plugins/Emgu.CV.dll</HintPath>
- </Reference>
- <Reference Include="Emgu.CV.GPU">
- <HintPath>D:/git_SOFT/ForPush/tennis/emgu2/Assets/Plugins/Emgu.CV.GPU.dll</HintPath>
- </Reference>
- <Reference Include="Emgu.CV.ML">
- <HintPath>D:/git_SOFT/ForPush/tennis/emgu2/Assets/Plugins/Emgu.CV.ML.dll</HintPath>
- </Reference>
- <Reference Include="Emgu.CV.OCR">
- <HintPath>D:/git_SOFT/ForPush/tennis/emgu2/Assets/Plugins/Emgu.CV.OCR.dll</HintPath>
- </Reference>
- <Reference Include="Emgu.CV.Stitching">
- <HintPath>D:/git_SOFT/ForPush/tennis/emgu2/Assets/Plugins/Emgu.CV.Stitching.dll</HintPath>
- </Reference>
- <Reference Include="Emgu.CV.UI">
- <HintPath>D:/git_SOFT/ForPush/tennis/emgu2/Assets/Plugins/Emgu.CV.UI.dll</HintPath>
- </Reference>
- <Reference Include="Emgu.CV.VideoStab">
- <HintPath>D:/git_SOFT/ForPush/tennis/emgu2/Assets/Plugins/Emgu.CV.VideoStab.dll</HintPath>
- </Reference>
- <Reference Include="Emgu.Util">
- <HintPath>D:/git_SOFT/ForPush/tennis/emgu2/Assets/Plugins/Emgu.Util.dll</HintPath>
- </Reference>
- <Reference Include="System.Drawing">
- <HintPath>D:/git_SOFT/ForPush/tennis/emgu2/Assets/Plugins/System.Drawing.dll</HintPath>
- </Reference>
- <Reference Include="ZedGraph">
- <HintPath>D:/git_SOFT/ForPush/tennis/emgu2/Assets/Plugins/ZedGraph.dll</HintPath>
- </Reference>
+     <None Include="Assets\Plugins\README.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
